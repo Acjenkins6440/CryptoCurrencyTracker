@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Acjenkins6440/CryptoCurrecyTracker/issues"
   },
-  "homepage": "https://github.com/Acjenkins6440/CryptoCurrecyTracker#readme"
+  "homepage": "https://github.com/Acjenkins6440/CryptoCurrecyTracker#readme",
+  "dependencies": {
+    "d3": "^4.10.0",
+    "jquery": "^3.2.1",
+    "serve": "^6.0.3"
+  }
 }
