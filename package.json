@@ -1,0 +1,19 @@
+{
+  "name": "cryptocurrency",
+  "version": "1.0.0",
+  "description": "Tracking Cryptocurrency prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acjenkins6440/CryptoCurrecyTracker.git"
+  },
+  "author": "Alex Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acjenkins6440/CryptoCurrecyTracker/issues"
+  },
+  "homepage": "https://github.com/Acjenkins6440/CryptoCurrecyTracker#readme"
+}
