@@ -1,6 +1,6 @@
 var cointypelist;
 var stuff = [];
-function ass(){
+function getCoinData(){
   $.getJSON("https://www.cryptocompare.com/api/data/coinlist/", function(data){
 
     coindata = data.Data
