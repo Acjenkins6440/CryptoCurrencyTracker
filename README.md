@@ -1,3 +1,3 @@
 # CryptoCurrecyTracker
 
-## going to use cryptocompare javascript api => npm install cryptocompare --save
+## going to use cryptocompare api
